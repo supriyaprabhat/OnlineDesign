@@ -1,8 +1,8 @@
-# Mural
+# OnlineDesign
 
-Mural is a simple design editor built using FabricJS and React(Typescript). Mural offers features akin to canva.com by allowing users to create images, create diagrams, organize compositions using the image editor, and save the finished product to one of numerous export options.
+OnlineDesign is a simple design editor built using FabricJS and React(Typescript). Mural offers features akin to canva.com by allowing users to create images, create diagrams, organize compositions using the image editor, and save the finished product to one of numerous export options.
 
-<img width="960" alt="Screenshot 2023-04-22 101234" src="https://user-images.githubusercontent.com/54324954/233775059-d78a5cb4-447b-43b8-b03d-442ca98fd30b.png">
+<img width="960" alt="" src="https://spreinvents.in/">
 
 
 ## Features
